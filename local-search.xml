@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>&#39;my-first-blog&#39;</title>
+    <link href="/2025/07/03/my-first-blog/"/>
+    <url>/2025/07/03/my-first-blog/</url>
+    
+    <content type="html"><![CDATA[<ul><li>这里是一级标题</li></ul><p>这是我第一次搭建的博客网站，基于github page服务、hexo框架搭建的个人博客网站，具有方便构建、无需服务器、推送便利、稳定性可靠等优点。</p><p>以下是一些关于博客网站的构架方法的介绍和问题解决</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>明前奶绿</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/07/02/hello-world/"/>
     <url>/2025/07/02/hello-world/</url>
